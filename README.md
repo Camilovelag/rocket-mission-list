@@ -9,7 +9,7 @@
 
 ## Live Demo
 
-Currently unavailable
+Check it out the live demo [here](https://my-space-travelers-hub.netlify.app/).
 
 ## Getting started
 
